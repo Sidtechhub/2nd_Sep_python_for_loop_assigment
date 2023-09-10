@@ -1,0 +1,1 @@
+# 2nd_Sep_python_for_loop_assigment
